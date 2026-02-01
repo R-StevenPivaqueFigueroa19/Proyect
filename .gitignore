@@ -1,0 +1,4 @@
+.env
+alertas_seguridad.log
+__pycache__/
+*.pyc
